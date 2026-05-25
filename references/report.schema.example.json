@@ -1,0 +1,91 @@
+{
+  "market": "jp",
+  "market_label": "日本",
+  "product_name": "AirLift 无钢圈内衣",
+  "metadata": {
+    "duration": 28.0,
+    "width": 1080,
+    "height": 1920,
+    "fps": 30.0,
+    "has_audio": true
+  },
+  "frames_extracted": 9,
+  "confidence": 90,
+  "scores": [
+    {
+      "dimension": "钩子强度",
+      "score": 4,
+      "analysis": "已识别到明确开场钩子"
+    }
+  ],
+  "total_score": 30,
+  "summary": "良好素材，建议补强弱项后测试",
+  "execution_summary": {
+    "decision": "先本地化，再小预算测试",
+    "top_title": "買う前にこれだけ見て #インナー #着痩せ #ファッション",
+    "weakest_dimensions": [
+      {
+        "dimension": "CTA压迫感",
+        "score": 3,
+        "analysis": "CTA 明确但压迫感一般"
+      }
+    ],
+    "first_actions": [
+      "首测标题：買う前にこれだけ見て #インナー #着痩せ #ファッション",
+      "重录 日语 旁白"
+    ],
+    "risks_to_check": []
+  },
+  "localization": {
+    "status": "需本地化",
+    "reasons": ["仍存在语言、模特风格、货币或表达方式与目标市场不一致的问题"],
+    "checklist": ["重录 日语 旁白"],
+    "signals": {
+      "voiceover": "zh",
+      "subtitles": "zh",
+      "onscreen_text": "zh",
+      "model_region": "cn",
+      "music_style": "cn",
+      "currency": "CNY"
+    }
+  },
+  "copy": {
+    "titles": ["え、まだそのまま続けるの？😳 #ファッション #着痩せ #コーデ"],
+    "top_titles": [],
+    "title_groups": {},
+    "descriptions": [],
+    "bodies": {
+      "short": "",
+      "standard": "",
+      "hard_sell": ""
+    },
+    "ctas": [],
+    "hashtags": []
+  },
+  "title_scores": {
+    "ranked": [],
+    "top5": [],
+    "approved": [],
+    "needs_review": [],
+    "rejected": [],
+    "performance_calibration": {
+      "used": false,
+      "angle_bonuses": {},
+      "notes": ["未提供可用历史投放数据，标题排序使用规则评分。"]
+    },
+    "scoring_rules": []
+  },
+  "landing_page_check": {
+    "status": "未提供落地页解析",
+    "checks": [],
+    "recommendations": []
+  },
+  "editing_advice": {
+    "short_15s": [],
+    "standard_25s": [],
+    "priority_fixes": [],
+    "cover_advice": []
+  },
+  "ab_tests": [],
+  "next_actions": []
+}

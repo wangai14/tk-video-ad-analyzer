@@ -1,0 +1,60 @@
+{
+  "product_name": "AirLift 无钢圈内衣",
+  "category": "fashion",
+  "target_audience": "20-35岁女性",
+  "pain_points": [
+    "普通内衣勒得难受",
+    "夏天闷热不透气"
+  ],
+  "hook": {
+    "present": true,
+    "type": "contrast",
+    "detail": "前3秒直接展示普通内衣 vs 无钢圈上身对比"
+  },
+  "selling_points": [
+    "无钢圈也有支撑感",
+    "轻薄透气",
+    "穿T恤不易显痕"
+  ],
+  "proof": [
+    "真人上身演示",
+    "前后对比镜头",
+    "用户评论截图"
+  ],
+  "offer": {
+    "present": true,
+    "detail": "限时第二件半价"
+  },
+  "price_original": 2999,
+  "price_sale": 1999,
+  "cta": {
+    "present": true,
+    "detail": "点击主页链接查看详情"
+  },
+  "languages": {
+    "voiceover": "zh",
+    "subtitles": "zh",
+    "onscreen_text": "zh"
+  },
+  "localization_signals": {
+    "model_region": "cn",
+    "music_style": "cn",
+    "currency": "CNY",
+    "needs_recut": false
+  },
+  "compliance_risks": [
+    "避免使用绝对化词汇"
+  ],
+  "extra_notes": "素材总时长 28 秒，适合改成日本市场测试版。",
+  "copy_requirements": {
+    "title_intensity": "aggressive",
+    "click_triggers": [
+      "买前确认",
+      "损失厌恶",
+      "避坑",
+      "反转",
+      "证明前置"
+    ],
+    "avoid_ad_feel": true
+  }
+}
